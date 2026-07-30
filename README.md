@@ -1,0 +1,2 @@
+# Odexai
+An ai assistant 
