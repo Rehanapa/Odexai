@@ -1,0 +1,6 @@
+{
+  "name": "AURORA DEVs - Custom ROM Portal",
+  "description": "Official landing page of AURORA DEVs. High performance, buttery smooth ColorOS custom ROM ports for Redmi Note 8/8T, Note 12 5G, and Note 7S with liquid glass design, Telegram downloads, and reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
